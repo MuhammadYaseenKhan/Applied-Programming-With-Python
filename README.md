@@ -8,5 +8,5 @@ Lecture notebooks of Python taught in AP.
 
 
 ## Query Sessions
-- Tuesday, April 14, 2020 [Click here to access the related`ipynb notebook`](https://github.com/MuhammadYaseenKhan/Applied-Programming-Spring-2020/blob/master/Query-Session-3.ipynb)
+- Tuesday, April 14, 2020 **Related to simple comprehensions** [Click here to access the related`ipynb notebook`](https://github.com/MuhammadYaseenKhan/Applied-Programming-Spring-2020/blob/master/Query-Session-3.ipynb)
 
