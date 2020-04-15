@@ -8,6 +8,6 @@ Lecture notebooks of Python taught in AP.
 
 
 ## Query Sessions
- 1. Tuesday, March 31, 2020—Related to data structures: lists, sets, and tuples. [Video](https://www.youtube.com/watch?v=ZSk63Wjm8UE). [`ipynb notebook`](https://github.com/MuhammadYaseenKhan/Applied-Programming-Spring-2020/blob/master/Query-Session-1.ipynb).
- 2. Tuesday, April 7, 2020—Related to data structures: dictionaries. [Video](https://www.youtube.com/watch?v=WMp2OHHo2wY). [`ipynb notebook`](https://github.com/MuhammadYaseenKhan/Applied-Programming-Spring-2020/blob/master/Query-Session-2.ipynb).
- 3. Tuesday, April 14, 2020—Related to simple comprehensions [`ipynb notebook`](https://github.com/MuhammadYaseenKhan/Applied-Programming-Spring-2020/blob/master/Query-Session-3.ipynb).
+ 1. Tuesday, March 31, 2020—Related to data structures: lists, sets, and tuples. [video link](https://www.youtube.com/watch?v=ZSk63Wjm8UE) | [`ipynb notebook`](https://github.com/MuhammadYaseenKhan/Applied-Programming-Spring-2020/blob/master/Query-Session-1.ipynb).
+ 2. Tuesday, April 7, 2020—Related to data structures: dictionaries. [video link](https://www.youtube.com/watch?v=WMp2OHHo2wY) | [`ipynb notebook`](https://github.com/MuhammadYaseenKhan/Applied-Programming-Spring-2020/blob/master/Query-Session-2.ipynb).
+ 3. Tuesday, April 14, 2020—Related to simple comprehensions. [video link](https://youtu.be/tEh6_b5cjuk) | [`ipynb notebook`](https://github.com/MuhammadYaseenKhan/Applied-Programming-Spring-2020/blob/master/Query-Session-3.ipynb).
