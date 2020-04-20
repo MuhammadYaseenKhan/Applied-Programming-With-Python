@@ -4,7 +4,9 @@ Lecture notebooks of Python taught in AP.
 
 
 ## Comprehensions
-- [Watch the 1st part of the video lecture here](https://youtu.be/styO04BaVnM) and grab `ipynb notebook` [here](https://github.com/MuhammadYaseenKhan/Applied-Programming-Spring-2020/blob/master/Comprehension-1of2.ipynb).
+- [Watch part 1 of 2 "Simple Comprehensions" here](https://youtu.be/styO04BaVnM) and grab `ipynb notebook` [here](https://github.com/MuhammadYaseenKhan/Applied-Programming-Spring-2020/blob/master/Comprehension-1of2.ipynb).
+- [Watch part 2 of 2 "Nested Comprehensions" here](https://youtu.be/0EWXBFluuIY) and grab `ipynb notebook` [here](https://github.com/MuhammadYaseenKhan/Applied-Programming-Spring-2020/blob/master/Comprehension-2of2.ipynb).
+
 
 
 ## Query Sessions
