@@ -1,0 +1,12 @@
+# Reading a file, file object.
+# Reading a file with with keyword.
+# Reading all contents in a file.
+# Reading contents in a file line by line.
+# Reading a file with UTF-x format.
+# Reading a binary file
+# Reading a directory file by file. (or) Iterating through the directory.
+# What if we are interested in reading files with specific format.
+# Writing in a file.
+# Appending content in a file.
+# Writing in a file with UTF-x format.
+# A neat example of reading and writing.
