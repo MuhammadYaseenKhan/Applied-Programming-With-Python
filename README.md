@@ -2,11 +2,11 @@
 Lecture notebooks of Python taught in AP.
 
 ### Comprehensions
-- [Watch part 1 of 2 "Simple Comprehensions"](https://youtu.be/styO04BaVnM) and grab `ipynb notebook` [here](https://github.com/MuhammadYaseenKhan/Applied-Programming-With-Python/blob/master/Comprehensions/Comprehension-1of2.ipynb).
-- [Watch part 2 of 2 "Nested Comprehensions"](https://youtu.be/_FhzEd7thsc) and grab `ipynb notebook` [here](https://github.com/MuhammadYaseenKhan/Applied-Programming-With-Python/blob/master/Comprehensions/Comprehension-2of2.ipynb).
+- Watch part 1 of 2 ["Simple Comprehensions"](https://youtu.be/styO04BaVnM) and grab `ipynb notebook` [here](https://github.com/MuhammadYaseenKhan/Applied-Programming-With-Python/blob/master/Comprehensions/Comprehension-1of2.ipynb).
+- Watch part 2 of 2 ["Nested Comprehensions"](https://youtu.be/_FhzEd7thsc) and grab `ipynb notebook` [here](https://github.com/MuhammadYaseenKhan/Applied-Programming-With-Python/blob/master/Comprehensions/Comprehension-2of2.ipynb).
 
 ### Filing 
-- [Reading and writing files, Iterating files in a directory](https://youtu.be/LXzstp880ww) and get the related programming material  and `ipynb notebook` [here](https://github.com/MuhammadYaseenKhan/Applied-Programming-With-Python/tree/master/File%20IO)
+- Watch [Reading and writing files, Iterating files in a directory](https://youtu.be/LXzstp880ww) and get the related programming material  and `ipynb notebook` [here](https://github.com/MuhammadYaseenKhan/Applied-Programming-With-Python/tree/master/File%20IO)
 
 
 ### Online Query Sessions (Spring 2020)
