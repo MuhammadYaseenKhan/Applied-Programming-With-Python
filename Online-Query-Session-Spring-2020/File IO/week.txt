@@ -1,0 +1,16 @@
+Week 01 - Introduction to Python 11-Feb
+Week 02 - Basic structure, Variable, Datatype 18-Feb
+Week 03 - Conditional Statements + Functions/Procedures/Definitions 25-Feb
+Week 04 - Repeatitive Statements 
+Week 04 - DS: List 
+Week 05 - DS: Tuples 
+Week 06 - DS: Set (OQS #1)
+Week 07 - DS: Dictionaries (OQS #2)
+Week 08 - Simple Comprehensions (OQS #3)
+Week 09 - Nested Comprehensions(OQS #4)
+Week 10 - Filing + JSON
+Week 11-12 - Web Scrapping
+Week 13 - Lambda function, Map, Redcue, Filter
+Week 14 - Numpy
+Week 15 - Pandas
+Week 16 - Visulisation (MatPlotLib, SeaBorn)
