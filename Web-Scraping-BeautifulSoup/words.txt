@@ -1,0 +1,5 @@
+wimp
+look
+sleep
+mobile
+spoon
